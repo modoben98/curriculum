@@ -8,6 +8,9 @@ If you know Ruby, the world is sort of opened up for you.  Want to learn Python?
 
 Before you move on, we would love it if you could [send us your feedback on the Ruby course](https://docs.google.com/forms/d/e/1FAIpQLSdYksRBRg_0GzcYxzm5Csikfhj2Nceh2ifMYRmfMH6quwRRDw/viewform?usp=sf_link). Getting user (you) feedback is important so we can continue to improve the curriculum and get an idea of your experience. So that's it, you're more than ready to go ahead and take on Rails.  **Congratulations!!!**
 
+Now go get it.
+
+
 ### Additional resources
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
